@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/latest-assignment/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/latest-assignment/static/js/main.ea2bd80e.chunk.js",
+    "main.js.map": "/latest-assignment/static/js/main.ea2bd80e.chunk.js.map",
+    "runtime-main.js": "/latest-assignment/static/js/runtime-main.14fdc7c0.js",
+    "runtime-main.js.map": "/latest-assignment/static/js/runtime-main.14fdc7c0.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/latest-assignment/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.fd5bc57b.chunk.js": "/latest-assignment/static/js/2.fd5bc57b.chunk.js",
+    "static/js/2.fd5bc57b.chunk.js.map": "/latest-assignment/static/js/2.fd5bc57b.chunk.js.map",
+    "static/js/3.0642d928.chunk.js": "/latest-assignment/static/js/3.0642d928.chunk.js",
+    "static/js/3.0642d928.chunk.js.map": "/latest-assignment/static/js/3.0642d928.chunk.js.map",
+    "index.html": "/latest-assignment/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/latest-assignment/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/latest-assignment/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.fd5bc57b.chunk.js.LICENSE.txt": "/latest-assignment/static/js/2.fd5bc57b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14fdc7c0.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.fd5bc57b.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ea2bd80e.chunk.js"
+  ]
+}
